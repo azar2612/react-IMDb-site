@@ -1,0 +1,59 @@
+.Header {
+  width: 1000px;
+  height: 100px;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: 60px 450px 370px 120px;
+  background-color: forestgreen;
+}
+
+.Logo {
+  background-color: goldenrod;
+}
+
+.Logo h2 {
+  padding-top: 13px;
+}
+
+.Menu {
+  background-color: hotpink;
+}
+
+.Menu ul {
+  height: 40px;
+  padding: 0;
+  margin-top: 37px;
+  margin-bottom: 0;
+}
+
+.Menu ul li {
+  float: left;
+  list-style-type: none;
+  padding-left: 15px;
+}
+
+.Search button {
+  padding-top: -30px;
+  height: 33px;
+  width: 41px;
+  padding: 0;
+  float: left;
+  margin-top: 32px;
+}
+
+.Search input[type="text"] {
+  width: 279px;
+  margin-top: 31px;
+  height: 28px;
+  float: left;
+}
+
+.Search button p {
+  margin: 0;
+}
+
+.profile-block i.far.fa-user-circle {
+  margin-top: 36px;
+  padding-left: 12px;
+  font-size: 26px;
+}
