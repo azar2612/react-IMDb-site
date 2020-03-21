@@ -1,29 +1,38 @@
 .Header {
-  width: 1000px;
+  width: 1100px;
   height: 100px;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: 60px 450px 370px 120px;
-  background-color: forestgreen;
+  grid-template-columns: 125px 420px 420px 135px;
+  background-color: wheat;
 }
 
-.Logo {
-  background-color: goldenrod;
+.logo1 {
+  background: darkgoldenrod;
+  border-radius: 9px;
+  margin-top: 25px;
+  text-align: center;
+  font-size: 20px;
+  height: 44px;
+  width: 101px;
+  margin-left: 10px;
 }
-
 .Logo h2 {
-  padding-top: 13px;
+  padding-top: 6px;
+
+  margin: 0 auto;
 }
 
 .Menu {
-  background-color: hotpink;
+  font-size: 13px;
 }
 
 .Menu ul {
   height: 40px;
   padding: 0;
-  margin-top: 37px;
+  margin-top: 41px;
   margin-bottom: 0;
+  width: 400px;
 }
 
 .Menu ul li {
@@ -35,14 +44,18 @@
 .Search button {
   padding-top: -30px;
   height: 33px;
-  width: 41px;
+  width: 100px;
   padding: 0;
   float: left;
   margin-top: 32px;
+  padding-left: -26px;
+}
+.button1 button {
+  width: 34px;
 }
 
 .Search input[type="text"] {
-  width: 279px;
+  width: 282px;
   margin-top: 31px;
   height: 28px;
   float: left;
@@ -50,6 +63,17 @@
 
 .Search button p {
   margin: 0;
+  text-align: left;
+  float: left;
+  padding-left: 6px;
+  padding-top: 2px;
+}
+
+i.fas.fa-sort-down {
+  padding-left: 55px;
+  font-size: 21px;
+  padding-top: -5px;
+  margin-top: -5px;
 }
 
 .profile-block i.far.fa-user-circle {

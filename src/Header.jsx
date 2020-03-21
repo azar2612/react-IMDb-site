@@ -12,7 +12,9 @@ const Header = () => (
 
 const Logo = () => (
   <div className="Logo">
-    <h2>IMDb</h2>
+    <div className="logo1">
+      <h2>IMDb</h2>
+    </div>
   </div>
 );
 
@@ -37,11 +39,16 @@ const Search = () => (
       name="search"
     />
     <div className="button">
-      <button>All</button>
+      <button>
+        <p>All</p>
+        <i class="fas fa-sort-down"></i>
+      </button>
     </div>
-    <button>
-      <i class="fa fa-search"></i>
-    </button>
+    <div className="button1">
+      <button>
+        <i class="fa fa-search"></i>
+      </button>
+    </div>
   </div>
 );
 
