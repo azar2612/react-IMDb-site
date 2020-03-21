@@ -1,0 +1,30 @@
+.Footer {
+  width: 1100px;
+  margin: 0 auto;
+  background: lightblue;
+}
+
+.Footer-sec {
+  text-align: center;
+  width: 900px;
+  margin: 0 auto;
+}
+
+.Footer-sec h2 {
+  font-size: 16px;
+  margin-bottom: 0;
+}
+
+i.fab.fa-twitter {
+  padding-left: 20px;
+  font-size: 25px;
+}
+
+i.fab.fa-instagram {
+  padding-left: 20px;
+  font-size: 25px;
+}
+
+i.fab.fa-facebook {
+  font-size: 25px;
+}
