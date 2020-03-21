@@ -1,0 +1,15 @@
+.Picks {
+  width: 1100px;
+  margin: 0 auto;
+  background: burlywood;
+}
+
+.Picks-sec {
+  width: 1000px;
+  margin: 0 auto;
+  background: chartreuse;
+}
+.Picks-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
