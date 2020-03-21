@@ -1,0 +1,16 @@
+.Movies {
+  width: 1100px;
+  background-color: thistle;
+  margin: 0 auto;
+}
+
+.Movies-sec {
+  width: 900px;
+  margin: 0 auto;
+  background-color: olive;
+}
+
+.Movies-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
