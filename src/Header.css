@@ -65,15 +65,14 @@
   margin: 0;
   text-align: left;
   float: left;
-  padding-left: 6px;
-  padding-top: 2px;
+  padding-left: 2px;
+  padding-top: 4px;
 }
 
 i.fas.fa-sort-down {
-  padding-left: 55px;
   font-size: 21px;
-  padding-top: -5px;
-  margin-top: -5px;
+  margin-top: -2px;
+  margin-left: 50px;
 }
 
 .profile-block i.far.fa-user-circle {
