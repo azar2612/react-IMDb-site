@@ -19,9 +19,9 @@
   font-family: Anton, sans-serif;
 }
 .Logo h2 {
-  padding-top: 6px;
-
+  padding-top: 3px;
   margin: 0 auto;
+  letter-spacing: 1.5px;
 }
 
 .Menu {
@@ -40,7 +40,7 @@
 .Menu ul li {
   float: left;
   list-style-type: none;
-  padding-left: 12px;
+  padding-left: 26px;
 }
 
 .Search button {
