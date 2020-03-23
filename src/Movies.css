@@ -1,16 +1,193 @@
 .Movies {
   width: 1100px;
-  background-color: thistle;
+  background-color: wheat;
   margin: 0 auto;
 }
 
 .Movies-sec {
-  width: 900px;
+  width: 1000px;
   margin: 0 auto;
-  background-color: olive;
+}
+
+.Movies-header {
+  padding-top: 20px;
+}
+
+.Movies-header h2 {
+  text-align: left;
+  font-size: 14px;
+  margin-bottom: 25px;
+  margin-top: 0;
 }
 
 .Movies-container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  height: 665px;
+  grid-column-gap: 15px;
+  grid-row-gap: 20px;
+}
+.Img1 {
+  background: white;
+}
+.Img2 {
+  background: white;
+}
+.Img3 {
+  background: white;
+}
+.Img4 {
+  background: white;
+}
+.Img5 {
+  background: white;
+}
+.Img6 {
+  background: white;
+}
+.Img7 {
+  background: white;
+}
+.Img8 {
+  background: white;
+}
+.Img9 {
+  background: white;
+}
+.Img10 {
+  background: white;
+}
+.Img1 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img2 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img3 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img4 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img5 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img6 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img7 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img8 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img9 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+.Img10 img {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.Img1 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+
+.Img1 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img2 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img3 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img4 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img5 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img6 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img7 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img8 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img9 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+.Img10 h2 {
+  font-size: 13px;
+  text-align: center;
+}
+
+.Img1 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img2 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img3 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img4 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img5 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img6 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img7 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img8 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img9 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Img10 p {
+  text-align: center;
+  font-size: 10px;
+}
+.Movies-footer h2 {
+  text-align: center;
+  font-size: 14px;
+  margin-top: 39px;
+  margin-bottom: 0;
+  padding-bottom: 27px;
 }
