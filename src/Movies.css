@@ -13,6 +13,10 @@
   padding-top: 20px;
 }
 
+.Movies-header span {
+  font-size: 5px;
+}
+
 .Movies-header h2 {
   text-align: left;
   font-size: 14px;
