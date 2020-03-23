@@ -133,7 +133,9 @@ const RatingMiddle6 = () => (
 
 const RatingMiddle2 = () => (
   <div className="Rating-middle2">
-    <img src={ImgA} alt="k" width="170" height="400" />
+    <div className="img">
+      <img src={ImgA} alt="k" width="185" height="400" />
+    </div>
   </div>
 );
 

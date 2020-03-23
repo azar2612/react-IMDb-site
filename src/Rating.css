@@ -4,7 +4,6 @@
   height: 427px;
   display: grid;
   grid-template-columns: 140px 820px 140px;
-  background: peru;
 }
 
 .Rating-middle {
@@ -94,16 +93,19 @@ i.fas.fa-star {
   font-size: 88px;
   margin-top: 164px;
   margin-left: 62px;
-  color: white;
+  color: wheat;
 }
 .Rating-right i.fas.fa-chevron-right {
   font-size: 88px;
   margin-top: 164px;
   margin-left: 20px;
-  color: white;
+  color: wheat;
 }
 
 .Rating-right {
   background-image: url(./Rating_Img/02.jpg);
   position: relative;
+}
+.Rating-middle2 .img {
+  padding-top: 15px;
 }

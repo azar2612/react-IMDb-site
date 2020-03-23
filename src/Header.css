@@ -47,7 +47,7 @@
   width: 100px;
   padding: 0;
   float: left;
-  margin-top: 32px;
+  margin-top: 31px;
   padding-left: -26px;
 }
 .button1 button {
@@ -69,14 +69,23 @@
   padding-top: 4px;
 }
 
-i.fas.fa-sort-down {
+.Search i.fas.fa-sort-down {
   font-size: 21px;
   margin-top: -2px;
   margin-left: 50px;
 }
 
 .profile-block i.far.fa-user-circle {
-  margin-top: 36px;
-  padding-left: 12px;
-  font-size: 26px;
+  margin-top: 33px;
+  padding-left: 19px;
+  font-size: 30px;
+}
+i.fas.fa-certificate {
+  font-size: 30px;
+  margin-left: 12px;
+}
+
+i.fas.fa-address-card {
+  margin-left: 12px;
+  font-size: 30px;
 }

@@ -55,8 +55,8 @@ const Search = () => (
 const Profile = () => (
   <div className="profile-block">
     <i class="far fa-user-circle"></i>
-    <i class="far fa-user-circle"></i>
-    <i class="far fa-user-circle"></i>
+    <i class="fas fa-address-card"></i>
+    <i class="fas fa-certificate"></i>
   </div>
 );
 
