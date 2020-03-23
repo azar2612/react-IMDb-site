@@ -1,20 +1,109 @@
 .Rating {
   width: 1100px;
   margin: 0 auto;
-  height: 500px;
+  height: 427px;
   display: grid;
-  grid-template-columns: 180px 740px 180px;
+  grid-template-columns: 140px 820px 140px;
   background: peru;
 }
 
 .Rating-middle {
   display: grid;
-  grid-template-columns: 550px 190px;
-  background: teal;
+  grid-template-columns: 620px 200px;
+  height: 427px;
+  background-image: url(./Rating_Img/03.png);
 }
 
 .Rating-middle1 {
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr 1fr;
-  background: yellowgreen;
+  grid-template-rows: 103px 120px 114px 90px;
+}
+.Rating-middle3 {
+  margin-left: 39px;
+  color: aliceblue;
+  font-size: 16px;
+}
+
+.Rating-middle5 {
+  font-size: 11px;
+  margin-left: 35px;
+}
+
+.Rating-middle6 button {
+  width: 167px;
+  float: left;
+  margin-left: 35px;
+  border-radius: 16px;
+  background: goldenrod;
+
+  box-shadow: 2px 0px 26px 0px firebrick;
+  margin-top: 16px;
+}
+i.fas.fa-plus {
+  float: left;
+  padding-top: 14px;
+}
+
+.Rating-middle6 p {
+  float: left;
+  padding-left: 9px;
+}
+
+.Rating-middle6 i.fas.fa-sort-down {
+  font-size: 29px;
+}
+
+i.fas.fa-play {
+  padding-top: 15px;
+}
+.Rating-middle4 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  font-size: 13px;
+}
+
+i.fas.fa-circle-notch {
+  font-size: 109px;
+  color: gold;
+  padding-left: 29px;
+}
+
+.RateA p {
+  margin: 0;
+  padding-left: 65px;
+  margin-top: -70px;
+  font-size: 26px;
+}
+i.fas.fa-circle {
+  font-size: 5px;
+}
+i.far.fa-user-circle {
+  font-size: 19px;
+}
+
+i.fas.fa-star {
+  color: gold;
+  margin-left: 6px;
+}
+.Rating-left {
+  background-image: url(./Rating_Img/01.jpg);
+  position: relative;
+}
+
+.Rating-left i.fas.fa-chevron-left {
+  font-size: 88px;
+  margin-top: 164px;
+  margin-left: 62px;
+  color: white;
+}
+.Rating-right i.fas.fa-chevron-right {
+  font-size: 88px;
+  margin-top: 164px;
+  margin-left: 20px;
+  color: white;
+}
+
+.Rating-right {
+  background-image: url(./Rating_Img/02.jpg);
+  position: relative;
 }
