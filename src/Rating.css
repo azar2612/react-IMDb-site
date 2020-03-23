@@ -4,6 +4,7 @@
   height: 427px;
   display: grid;
   grid-template-columns: 140px 820px 140px;
+  font-family: Roboto, sans-serif;
 }
 
 .Rating-middle {

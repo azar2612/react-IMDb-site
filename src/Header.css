@@ -16,6 +16,7 @@
   height: 44px;
   width: 101px;
   margin-left: 10px;
+  font-family: Anton, sans-serif;
 }
 .Logo h2 {
   padding-top: 6px;
@@ -25,6 +26,7 @@
 
 .Menu {
   font-size: 13px;
+  font-family: Fjalla One, sans-serif;
 }
 
 .Menu ul {
@@ -38,17 +40,18 @@
 .Menu ul li {
   float: left;
   list-style-type: none;
-  padding-left: 15px;
+  padding-left: 12px;
 }
 
 .Search button {
   padding-top: -30px;
-  height: 33px;
+  height: 34px;
   width: 100px;
   padding: 0;
   float: left;
   margin-top: 31px;
   padding-left: -26px;
+  border: inset;
 }
 .button1 button {
   width: 34px;
@@ -59,6 +62,7 @@
   margin-top: 31px;
   height: 28px;
   float: left;
+  background-color: #eee7e7;
 }
 
 .Search button p {
